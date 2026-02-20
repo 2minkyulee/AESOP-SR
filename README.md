@@ -1,5 +1,6 @@
 
 # [CVPR2025] AESOP 🦊🍇
+# Auto-Encoded Supervision for Perceptual Image Super-Resolution
 ### ⭐This is the official repository of
 > **Auto-Encoded Supervision for Perceptual Image Super-Resolution ([Arxiv](https://arxiv.org/abs/2412.00124) | [Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Lee_Auto-Encoded_Supervision_for_Perceptual_Image_Super-Resolution_CVPR_2025_paper.pdf) | [Supplementary Material](https://openaccess.thecvf.com/content/CVPR2025/supplemental/Lee_Auto-Encoded_Supervision_for_CVPR_2025_supplemental.pdf))**\
 > MinKyu Lee, Sangeek Hyun, Woojin Jun, Jae-Pil Heo*\
