@@ -13,7 +13,7 @@ Sungkyunkwan University\
 
 
 ### 🦊 **Check out our recent works:**
-[[Arxiv]](https://arxiv.org/abs/2504.06629), [[Github]](https://github.com/2minkyulee/Analyzing-the-Training-Dynamics-of-Image-Restoration-Transformers) (ICLR 2026) Analyzing the Training Dynamics of Image Restoration Transformers: A Revisit to Layer Normalization
+[[Arxiv]](https://arxiv.org/abs/2504.06629), [[Github]](i-LN) (ICLR 2026) Analyzing the Training Dynamics of Image Restoration Transformers: A Revisit to Layer Normalization
 \
 [[Arxiv]](https://arxiv.org/abs/2312.17526), [[Github]](https://github.com/2minkyulee/Noise-free-Optimization-in-Early-Training-Steps-for-Image-Super-Resolution) (AAAI 2024) Noise-free Optimization in Early Training Steps for Image Super-Resolution
 
